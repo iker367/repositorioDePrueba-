@@ -31,3 +31,11 @@ hgvghcfydvrt  ybtrfcrdcyvgjh rtufygbfryjthjybgvv
 [Google](http://www.google.com "Titulo opcional")
 
 ![F1](https://github.com/iker367/repositorioDePrueba-/blob/main/lewis-hamilton-mercedes-w12-1.jpg "Imagen F1")
+
+| Titulo | titulo 2 | titulo 3 |
+|------------|:----------:|-----------:|
+|Iker | Apellido| Apellido 2|
+|Nombre2| Apellido 3 | Apellido 4|
+|Col 3| esta alineada| centro|
+|col 2 | esta alineada | centro |
+
