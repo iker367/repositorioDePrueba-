@@ -1,2 +1,2 @@
-# repositorioDePrueba-
+# RepositorioDePrueba
 Primer repositorio GitHub
